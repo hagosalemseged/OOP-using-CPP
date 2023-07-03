@@ -15,3 +15,9 @@
 * [ ] Is a special method that is automatically called when an object of class is created.
 * [ ] It has the same name as class name.
 * [ ] It does not have return type.
+
+###### Access Specifiers
+
+1. Public => members are accessible from outside of class.
+2. Private => members are not accessible from outside of class.
+3. Protected => members are not accessible from outside of class but they are accessible in inherited class.
