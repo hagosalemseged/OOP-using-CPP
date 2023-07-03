@@ -9,3 +9,9 @@
 
 * [X] methods are functions that are belongs to class.
 * [X] there are two ways to define function that belongs to a class( Inside and outside class defintions).
+
+###### Constructor
+
+* [ ] Is a special method that is automatically called when an object of class is created.
+* [ ] It has the same name as class name.
+* [ ] It does not have return type.
