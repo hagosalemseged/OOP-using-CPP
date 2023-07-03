@@ -12,12 +12,18 @@
 
 ###### Constructor
 
-* [ ] Is a special method that is automatically called when an object of class is created.
-* [ ] It has the same name as class name.
-* [ ] It does not have return type.
+* [X] Is a special method that is automatically called when an object of class is created.
+* [X] It has the same name as class name.
+* [X] It does not have return type.
 
 ###### Access Specifiers
 
 1. Public => members are accessible from outside of class.
 2. Private => members are not accessible from outside of class.
 3. Protected => members are not accessible from outside of class but they are accessible in inherited class.
+
+###### Encapsulation
+
+* [X] It is the process of bundling date and function members that operate together inside single class.
+* [X] Used to make sure that sensitive data is hidden from users. To achieve this you must declare variables as private access specifier.
+* [X] If you want to read or modify the value of a private members, you can provide public get and set methods.
