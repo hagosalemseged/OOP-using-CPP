@@ -27,3 +27,19 @@
 * [X] It is the process of bundling date and function members that operate together inside single class.
 * [X] Used to make sure that sensitive data is hidden from users. To achieve this you must declare variables as private access specifier.
 * [X] If you want to read or modify the value of a private members, you can provide public get and set methods.
+
+###### Inheritance
+
+* [X] It is possible to inherit attributes and methods from one class to another class.
+* [X] we can group inheritance in to two:
+* [X] Derived(child) class => the class that inherits from another class
+* [X] Base(parent) class => the class being inehrited from.
+
+###### Polymoriphism
+
+* [X] Polymoriphism means many forms and it occurs we have many classes that are related to each other by inheritance.
+
+###### Abstraction
+
+* [X] refer to providing only essential information to the outside world and hiding thier background details.
+* [X] Abstraction can be achieved by two ways: 1. abstract class 2. interface
